@@ -42,7 +42,7 @@ Upon inputting a website and pressing enter or clicking the button, a QR code wi
 This application was created utilizing a javascript library from https://github.com/davidshimjs.
 
 <h3 id="whatILearned">What I Learned</h3> 
-I learned about javascript libraries, QR codes and how it works, and min.js.
+I learned about javascript libraries, QR codes and its intricacies, and min.js.
 
 <h3 id="optimizations">Optimizations:</h3>
 I would like to provide the following future features/optimizations:
